@@ -1,0 +1,5 @@
+{
+  "name": "Email Security Test Vector Generator",
+  "description": "A tool to generate a comprehensive list of email address variants for security testing, based on RFCs and common vulnerabilities.",
+  "requestFramePermissions": []
+}
