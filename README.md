@@ -5,6 +5,12 @@
   <p>A curated collection of RFC-compliant and edge-case email formats for penetration testing, bug bounty hunting, and security assessments.</p>
 </div>
 
+## Live Demo
+
+View the HTML email test live:
+
+[Live Link](https://janpreetwazir.github.io/email-test/)
+
 ## Features
 
 - ✅ **150+ Email Variants** - Comprehensive test vectors covering all major email format edge cases
